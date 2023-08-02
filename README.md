@@ -46,7 +46,7 @@ test/java/SimpleMathLibraryTest
 test/java/TestRunner
 test/java/TestScenarios
 
-Виконання цього пдтверджую файлом screenshot01.jpg
+Виконання цього пдтверджую файлом screenshot02.jpg
 
 --------------------------------------------------
 
@@ -64,4 +64,4 @@ test/java/TestScenarios
 main/java/ArrayUtils
 test/java/ArrayUtilsTest
 
-Виконання цього пдтверджую файлом screenshot02.jpg
+Виконання цього пдтверджую файлом screenshot01.jpg
